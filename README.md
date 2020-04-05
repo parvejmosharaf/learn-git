@@ -8,7 +8,7 @@ cd (change directory) <br>
 mkdir (make directory) <br>
 - create folder <br>
 
-##git 
+## git 
 
 status <br>
 - information about repository <br>
